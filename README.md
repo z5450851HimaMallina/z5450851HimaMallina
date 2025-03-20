@@ -2,27 +2,7 @@
 ### I love everything to do with DATA! 🚀  
 **Data & FinTech Enthusiast | Data Analytics | Machine Learning** 🚀  
 
-I’m passionate about **data analytics, data science, machine learning, and fintech solutions** to drive insights and innovation. With experience in **data science, automation, and financial technology**, I enjoy solving complex problems and optimizing processes through data-driven decision-making.  
-
-## 💻 Technical Expertise  
-
-✔ **Data Analytics**  
-✔ **Data Science**  
-✔ **Machine Learning**  
-✔ **FinTech Strategy**  
-✔ **Payments & Automation**  
-✔ **Python**  
-✔ **SQL**  
-✔ **SAS**  
-✔ **Tableau**  
-✔ **Power BI**  
-✔ **Statistical Analysis**  
-✔ **Data Visualization**  
-✔ **Data Manipulation**  
-
-I'm open to collaborations and always happy to connect!  
-
-Feel free to reach out to me directly on [LinkedIn](https://www.linkedin.com/in/himarohinimallina) 💼  
+I’m into **data analytics, data science, machine learning, and fintech solutions** to get some hidden insights💎 for innovation. With experience in **data science, automation, and financial technology**, I enjoy solving complex problems and optimizing processes through data-driven decision-making.   
 
 ## 🚀 Languages and Tools I Use  
 
@@ -40,3 +20,27 @@ Feel free to reach out to me directly on [LinkedIn](https://www.linkedin.com/in/
 
 ## ⚡️ Where to find me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himarohinimallina)
+
+# 💻 Technical Expertise
+
+| **Skill**               | **AFunEmoji?**         |
+|-------------------------|------------------|
+| **Data Analytics**       | 📊               |
+| **Data Science**         | 🤖               |
+| **Machine Learning**     | 🧠               |
+| **Python**               | 🐍               |
+| **SQL**                  | 🗃️               |
+| **SAS**                  | 📈               |
+| **Tableau**              | 📊               |
+| **Power BI**             | 📊               |
+| **Statistical Analysis** | 📉               |
+| **Data Visualization**   | 📊               |
+| **Data Manipulation**    | 🔧               |
+| **Fintech**              | 💳               |
+
+---
+
+*Above table provides an overview of the technical skills I have honed over the years.*
+I'm open to collaborations and always happy to connect!  
+
+Feel free to reach out to me directly on [LinkedIn](https://www.linkedin.com/in/himarohinimallina) 💼 
