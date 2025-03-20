@@ -4,6 +4,10 @@
 
 I’m into **data analytics, data science, machine learning, and fintech solutions** to get some hidden insights💎 for innovation. With experience in **data science, automation, and financial technology**, I enjoy solving complex problems and optimizing processes through data-driven decision-making.   
 
+Got any questions or want to chat about data, tech, or just life in general? Don’t be shy, reach out to me on **LinkedIn**! Let’s connect, share ideas, and maybe even have some fun along the way 🎉.
+
+[LinkedIn](https://www.linkedin.com/in/himarohinimallina) 💼 
+
 ## 🚀 Languages and Tools I Use  
 
 <p align="left">
@@ -39,8 +43,6 @@ I’m into **data analytics, data science, machine learning, and fintech solutio
 | **Fintech**              | 💳               |
 
 ---
-
-*Above table provides an overview of the technical skills I have honed over the years.*
 I'm open to collaborations and always happy to connect!  
-
-Feel free to reach out to me directly on [LinkedIn](https://www.linkedin.com/in/himarohinimallina) 💼 
+Have an awesome day ahead!
+Talk soon ☀️
