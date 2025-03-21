@@ -1,7 +1,7 @@
 # Hello!! 🌏  
 ### I love everything to do with DATA! 🚀  
 **Data & FinTech Enthusiast | Business | Data Analytics | Machine Learning** 🚀  
-I’m into **data analytics, data science, machine learning, and fintech solutions** to get some hidden insights💎 for innovation. With experience in **data science, automation, and financial technology**, I enjoy solving complex problems and optimizing processes through data-driven decision-making. 
+With experience in **data science, automation, and financial technology**, I enjoy hunting hidden insights💎, solving complex problems and optimizing processes through data-driven decision-making. 
 
 | Check out this fun  🎉Machine Learning Project!🎉|
 | https://github.com/z5450851HimaMallina/Machine-Learning/tree/main | 
