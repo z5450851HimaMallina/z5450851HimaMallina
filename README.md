@@ -1,11 +1,11 @@
-# Hello, I'm Hima from Sydney! 🌏  
+# Hello!! 🌏  
 ### I love everything to do with DATA! 🚀  
-**Data & FinTech Enthusiast | Data Analytics | Machine Learning** 🚀  
-I’m into **data analytics, data science, machine learning, and fintech solutions** to get some hidden insights💎 for innovation. With experience in **data science, automation, and financial technology**, I enjoy solving complex problems and optimizing processes through data-driven decision-making.   
-![snake gif](https://github.com/z5450851HimaMallina/z5450851HimaMallina/blob/output/github-snake.svg)
+**Data & FinTech Enthusiast | Business | Data Analytics | Machine Learning** 🚀  
+I’m into **data analytics, data science, machine learning, and fintech solutions** to get some hidden insights💎 for innovation. With experience in **data science, automation, and financial technology**, I enjoy solving complex problems and optimizing processes through data-driven decision-making. 
 
 | Check out this fun  🎉Machine Learning Project!🎉|
-| https://github.com/z5450851HimaMallina/Machine-Learning/tree/main |   
+| https://github.com/z5450851HimaMallina/Machine-Learning/tree/main | 
+![snake gif](https://github.com/z5450851HimaMallina/z5450851HimaMallina/blob/output/github-snake.svg)
 Got any questions or want to chat about data, tech, or just life in general? Don’t be shy, reach out to me on **LinkedIn**! Let’s connect, share ideas, and maybe even have some fun along the way.
 ## 🚀 Languages and Tools I Use  
 
