@@ -6,7 +6,6 @@ I’m into **data analytics, data science, machine learning, and fintech solutio
 | Check out this fun  🎉Machine Learning Project!🎉|
 | https://github.com/z5450851HimaMallina/Machine-Learning/tree/main | 
 ![snake gif](https://github.com/z5450851HimaMallina/z5450851HimaMallina/blob/output/github-snake.svg)
-Got any questions or want to chat about data, tech, or just life in general? Don’t be shy, reach out to me on **LinkedIn**! Let’s connect, share ideas, and maybe even have some fun along the way.
 ## 🚀 Languages and Tools I Use  
 
 <p align="left">
@@ -43,6 +42,8 @@ Got any questions or want to chat about data, tech, or just life in general? Don
 
 ---
 I'm open to collaborations and always happy to connect!  
+
+Got any questions or want to chat about data, tech, or just life in general? Don’t be shy, reach out to me on **LinkedIn**! Let’s connect, share ideas, and maybe even have some fun along the way.
 Have an awesome day ahead!
 Talk soon ☀️
 
