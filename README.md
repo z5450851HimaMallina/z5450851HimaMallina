@@ -23,23 +23,6 @@
 ## ⚡️ Where to find me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himarohinimallina)
 
-# 💻 Technical Expertise
-
-| **Skill**               | **AFunEmoji?**         |
-|-------------------------|------------------|
-| **Data Analytics**       | 📊               |
-| **Data Science**         | 🤖               |
-| **Machine Learning**     | 🧠               |
-| **Python**               | 🐍               |
-| **SQL**                  | 🗃️               |
-| **SAS**                  | 📈               |
-| **Tableau**              | 📊               |
-| **Power BI**             | 📊               |
-| **Statistical Analysis** | 📉               |
-| **Data Visualization**   | 📊               |
-| **Data Manipulation**    | 🔧               |
-| **Fintech**              | 💳               |
-
 ---
 I'm open to collaborations and always happy to connect!  
 
