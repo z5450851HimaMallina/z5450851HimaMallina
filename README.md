@@ -6,9 +6,7 @@
 | Check out this fun Machine Learning Project!|
 | https://github.com/z5450851HimaMallina/Machine-Learning/tree/main | 
 ![snake gif](https://github.com/z5450851HimaMallina/z5450851HimaMallina/blob/output/github-snake.svg)
-
-
-## ⚡️ Where to find me  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himarohinimallina)
 
 ---
