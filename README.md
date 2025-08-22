@@ -64,8 +64,6 @@
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-2681F7?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
----
-
 
 ## 📫 Connect with Me
 
@@ -77,4 +75,3 @@
     <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
- 
