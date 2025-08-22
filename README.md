@@ -1,11 +1,10 @@
+# Hi there, I'm Hima
+
+- I'm a **data-driven problem solver** passionate about transforming complex datasets into strategic insights and building impactful analytics solutions.
 - I simply love everything to do with data cause everything has to do with Data. 
 - I enjoy hunting down hidden insights, be creative and paint a picture to solve problems and identify areas to improve a business. 
 
 🌐 Portfolio: [himamallina.com](https://himamallina.com)  
-
-# Hi there 👋, I'm Hima Rohini
-
-I'm a **data-driven problem solver** passionate about transforming complex datasets into strategic insights and building impactful analytics solutions.
 
 ---
 
@@ -35,17 +34,26 @@ I'm a **data-driven problem solver** passionate about transforming complex datas
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL-6C6C6C?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
-### Natural Language Processing & Text Analysis
+### Machine Learning & AI
 <p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-00FF7F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-8C1515?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langdetect-5C4033?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regex-FF7F50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spacy-FF6600?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Cloud & AI Services
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-AI-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ### Other Tools & Platforms
@@ -56,9 +64,17 @@ I'm a **data-driven problem solver** passionate about transforming complex datas
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-2681F7?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
-
 ---
 
-## 📫 How to reach me
-- LinkedIn: [www.linkedin.com/in/himarohinimallina](https://www.linkedin.com/in/himarohinimallina/)  
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/himarohini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.himarohini.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
  
