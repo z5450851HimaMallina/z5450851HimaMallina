@@ -6,9 +6,18 @@
 
 🌐 Portfolio: [himamallina.com](https://himamallina.com)  
 
----
+## 📫 Connect with Me
 
-## 🛠️ My Tech Stack
+<p align="left">
+  <a href="https://www.linkedin.com/in/himarohinimallina/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://himamallina.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🛠️ My Tech Stack
 
@@ -67,13 +76,4 @@
   <img src="https://img.shields.io/badge/Snowflake-2681F7?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
-## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/himarohini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.himarohini.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
