@@ -65,13 +65,4 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-### Other Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-2681F7?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
-
 
