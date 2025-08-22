@@ -2,4 +2,4 @@
 - I enjoy hunting down hidden insights, be creative and paint a picture to solve problems and identify areas to improve a business. 
 Website : himamallina.com
 
-Profile Views: [![HitCount](https://hits.dwyl.com/z5450851HimaMallina/amrrs.svg?style=flat-square)](http://hits.dwyl.com/z5450851HimaMallina/amrrs)
+Profile Views: [![HitCount](https://hits.dwyl.com/z5450851HimaMallina/Insurance_PredictionML.svg?style=flat-square)](http://hits.dwyl.com/z5450851HimaMallina/Insurance_PredictionML)
